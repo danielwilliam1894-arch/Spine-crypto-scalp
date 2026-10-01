@@ -1,0 +1,7 @@
+.env
+bot_state.json
+/data/
+.cache/
+__pycache__/
+*.py[cod]
+crypto_scalp_bot.zip
